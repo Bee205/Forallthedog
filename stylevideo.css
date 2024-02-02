@@ -1,0 +1,19 @@
+body {
+    background-color: wheat;
+}
+.dog-page {
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    align-items: center;
+}
+
+.page {
+    justify-content: center;
+    display: flex;
+}
+
+.page iframe {
+    width: 700px;
+    height: 500px;
+}

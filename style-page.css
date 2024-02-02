@@ -1,0 +1,35 @@
+body {
+    background-color: wheat;
+}
+
+.page h1 {
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.img-content {
+    display: flex;
+    justify-content: center;
+    width: 1116px;
+}
+
+.page img {
+    width: 1000px;
+}
+
+.description-page h5 {
+    margin-left: 315px;
+    font-weight: bold;
+}
+
+.description-page {
+    width: 1116px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.description-page p {
+    width: 800px;
+}

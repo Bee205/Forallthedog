@@ -1,0 +1,35 @@
+body {
+    background-color: wheat;
+}
+
+.mainpage {
+    display: flex;
+    justify-content: center;
+}
+
+.content-page div {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.page {
+    min-width: 458px;
+    width: 1200px;
+}
+
+.page h1 {
+    margin-bottom: 20px;
+}
+
+.page img {
+    margin-bottom: 20px;
+}
+
+.page h4 {
+    margin-bottom: 20px;
+}
+
+.page img {
+    width: 300px;
+}
+
